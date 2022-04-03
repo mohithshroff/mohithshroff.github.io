@@ -1,3 +1,3 @@
 # Google-Clone-Tutorial-CodingStar
 
-[Click Here](https://codingstar-jason.github.io/Google-Clone-Tutorial-CodingStar/) to see website
+[Click Here](https://mohithshroff.github.io) to see website
